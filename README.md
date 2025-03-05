@@ -1,5 +1,5 @@
-# skin-cancer-toolkit-2022
-optum global hackathon 2022
+# skin-cancer-detection-toolkit
+Optum global hackathon 2022 Runner Up 
 
 ## Overview
 
