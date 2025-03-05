@@ -1,0 +1,51 @@
+body{
+    background: #1281ca;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #80b997, #7ea8c4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.imagelogin{
+    padding-left: 80px;
+    margin: 150px auto;
+    margin-left: 10px;
+    margin-top: 80px;
+    float:left;
+}
+.form{
+    background-color: lightgrey;
+    border-radius: 5px;
+    width: 450px;
+    margin: 250px auto;
+    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 50px;
+    float:right;
+    /*height: 800px;*/
+}
+
+.form-body{
+    text-align: left;
+    padding-right: 50px;
+    /* padding: 20px 10px; */
+}
+
+.form-body > *{
+    padding: 5px;
+}
+
+.form__label{
+    width: 40%;
+}
+
+.form_input{
+    width: 100%;
+}
+
+.footer{
+    text-align: center;
+}
+
+.btn{
+    background-color: lightskyblue;
+}

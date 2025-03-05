@@ -1,0 +1,56 @@
+body{
+    /* background: #bddff0;  fallback for old browsers */
+    /* background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  Chrome 10-25, Safari 5.1-6 */
+    /* background: linear-gradient(to right, #80b997, #7ea8c4); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.result-div{
+    background: #bddff0;  
+}
+.img{
+    border: 5px solid #555;
+}
+.provider-div-1{
+    padding-top: 50px;
+    margin-left: 100px;
+float:left
+}
+
+.provider-div-2{
+padding-top: 50px;
+    margin-left: 210px;
+position: relative;
+float: left;
+}
+
+.provider-div-3{
+    padding-top: 50px;
+    margin-left: 1000px;
+    position: relative;
+
+}
+
+.button-contact{
+    padding-top: 100px;
+    padding-bottom: 300px;
+}
+
+.btn-contact{
+    border-radius: 5px;
+    border: none;
+    color: white;
+    box-shadow: 0 2px 4px darkslategray;
+    padding:5px 10px;
+    background-color: rgb(29, 223, 223);
+    cursor:pointer;
+}
+.paragraph-foot{
+    padding-top: 100px;
+    padding-bottom: 300px;
+}
+/* #button-submit{
+    width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+} */
