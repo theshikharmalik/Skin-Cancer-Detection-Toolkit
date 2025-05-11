@@ -32,4 +32,10 @@ This is the front-end of our application. It is built using react framework. You
 
 You can navigate to this address in your browser to see the work with the application : http://localhost:3000
 
+<img width="990" alt="Screenshot 2025-05-11 at 9 32 54 AM" src="https://github.com/user-attachments/assets/77db3efc-0a4c-491d-ac2e-ece03e7b3001" />
+<img width="990" alt="Screenshot 2025-05-11 at 9 33 03 AM" src="https://github.com/user-attachments/assets/06d1fa86-e743-4303-bbb0-655400cfeb7e" />
+<img width="990" alt="Screenshot 2025-05-11 at 9 33 12 AM" src="https://github.com/user-attachments/assets/af43b5b6-8296-4b08-a338-78c66659a289" />
+
+
+
 
